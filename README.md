@@ -2,7 +2,7 @@
 
 When the menu screen loads, you will be prompted to enter a choice using digits 1-5. 
     - Make sure NOT to type out the number (ex. "five").
-    - Proceed with your menu choice by pressing enter. 
+    - Proceed with your all menu choices by pressing enter. Otherwise, the program will not proceed.
 
 Choices: 
 NOTE: As described in the outset, do not use words in place of numbers when 
